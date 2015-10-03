@@ -70,3 +70,8 @@ theme: tranquilpeak
 deploy:
   type: git
   repo: git@github.com:DotDashPay/blog.git
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
