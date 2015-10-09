@@ -33,6 +33,10 @@
             <% if (theme.image_gallery) { %>
                 <%- partial('post/gallery', {photos: post.photos})%>
             <% } %>
+
+        <% if (post.author) { %>
+           <h4 style="text-align:right">~ <%= post.author %></h4>
+        <% } %>
         </div>
     </div>
     <div class="post-footer main-content-wrap">
