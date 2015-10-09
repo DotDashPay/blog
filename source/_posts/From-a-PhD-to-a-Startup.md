@@ -10,7 +10,7 @@ I worked on my PhD for 7 years and spent about 2.5 years before that doing under
 
 # What Does a PhD Student Do?
 
-Over that decade I got a lot of blank stares when I told people I was a PhD student in Computer Science. Probably the most common one from people outside academia was, “Oh, so you’re like a crazy good programmer, right?” As it turns out, I am a decent programmer, but that has very little do with being a PhD student. In fact, there are plenty of PhD students who are pretty awful programmers, although that is certainly not always the case.
+Over that decade, the single most common comment I received when I told someone that I was a PhD student in Computer Science was, “Oh, so you’re like a crazy good programmer, right?” As it turns out, I am a decent programmer, but that has very little do with being a PhD student. In fact, there are plenty of PhD students who are pretty awful programmers, although that is certainly not always the case.
 
 A PhD student is a researcher. Student is probably not even an appropriate term, because they are typically paid for what they do. Do they learn? Of course, but everyone learns at their job right? Many people even take courses where they work. 
 
@@ -64,3 +64,9 @@ Ok, here it is. If you’re a PhD student and you love + are good at the first 3
 I say this because being good at 1-3 seems to be very transmutable. I don’t have a lot of data personally, but I know a lot of people who have made this leap and it does seem to be the case. That is anecdotal evidence, so if you are a good researcher you won’t believe me. 
 
 What really matters is what gets you fired up and creates that rush inside that is addicting. I’ll soften my statement a bit by saying if that rush comes from building things and having other people see them and you don’t care so much about proving beyond a shadow of a doubt that what you did was correct, then at least give it a shot. And know that you’re time in academia has not be a waste. You just need to shift a couple things around to be effective.
+
+### Nota Bene
+
+Unfortunately (or fortunately depending on who you are), having any aptitude as a PhD student is neither necessary nor sufficient to be a good entreprenuer. My own experience tells me that being good at 1-3 makes you better at finding good problems to work on and makes you efficient in finding solutions to those problems, but starting a company requires a lot more than just that. There are countless examples of extremely successful entrepreneurs who don't have PhDs, or even finished college for that matter. 
+
+In the end, I think that being good at 1-3 just decreases your risk of failure. By what amount you ask? That's for a researcher to analyze.
